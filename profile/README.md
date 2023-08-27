@@ -68,6 +68,10 @@ SNS 로그인: [카카오 로그인][kakao login]
 
 [kakao pay]: https://developers.kakao.com/docs/latest/ko/kakaopay/common
 
+문자 인증: [네이버 클라우드 플랫폼][ncloud]
+
+[ncloud]: https://www.ncloud.com/product/applicationService/sens
+
 - - -
 
 ## **Members**
