@@ -35,6 +35,7 @@
 ## 목차
 - [ 개요 ](#개요)
 - [ E-R Diagram](#e-r-diagram)
+- [ 에러 코드](#에러-코드)
 - [ open API](#open-api)
 - [ Members](#members)
 
@@ -48,6 +49,13 @@
 ## **E-R Diagram**
 
 ![Alt text](docs/erd.png)
+
+<br>
+
+- - -
+## **에러 코드**
+
+![Alt text](docs/오류메세지.jpg)
 
 <br>
 
