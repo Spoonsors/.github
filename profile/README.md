@@ -55,7 +55,7 @@
 - - -
 ## **에러 코드**
 
-![Alt text](docs/오류메세지.jpg)
+![Alt text](docs/에러코드.jpg)
 
 <br>
 
