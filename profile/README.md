@@ -4,6 +4,8 @@
 
 <div align="center">
 
+![Alt text](docs/logo.png)
+
 #### 자립 준비 청년의 한끼를 위해 식단과 레시피를 제공하고, 식재료를 후원하는 기부 플랫폼
 
 ### Front
@@ -57,7 +59,7 @@
 - - -
 ## **서비스 흐름도**
 
-![Alt text](docs/서비스 흐름도.png)
+![Alt text](docs/서비스흐름도.png)
 
 
 <br>
@@ -66,11 +68,11 @@
 
 ## **기능 흐름도**
 
-![Alt text](docs/기능 흐름도 (2).jpg)
+![Alt text](docs/기능흐름도(2).jpg)
 
 <br>
 
-![Alt text](docs/기능 흐름도.jpg)
+![Alt text](docs/기능흐름도.jpg)
 
 <br>
 
