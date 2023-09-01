@@ -57,7 +57,8 @@
 - - -
 ## **서비스 흐름도**
 
-![Alt text](docs/서비스-흐름도.png)
+![Alt text](docs/서비스 흐름도.png)
+
 
 <br>
 
@@ -65,11 +66,11 @@
 
 ## **기능 흐름도**
 
-![Alt text](docs/기능-흐름도.png)
+![Alt text](docs/기능 흐름도 (2).jpg)
 
 <br>
 
-![Alt text](docs/기능-흐름도-(2).png)
+![Alt text](docs/기능 흐름도.jpg)
 
 <br>
 
