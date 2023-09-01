@@ -35,6 +35,8 @@
 ## 목차
 - [ 개요 ](#개요)
 - [ E-R Diagram](#e-r-diagram)
+- [ 기능 흐름도](#기능-흐름도)
+- [ 서비스 흐름도](#서비스-흐름도)
 - [ 에러 코드](#에러-코드)
 - [ open API](#open-api)
 - [ Members](#members)
@@ -53,6 +55,26 @@
 <br>
 
 - - -
+## **서비스 흐름도**
+
+![Alt text](docs/서비스-흐름도.png)
+
+<br>
+
+- - -
+
+## **기능 흐름도**
+
+![Alt text](docs/기능-흐름도.png)
+
+<br>
+
+![Alt text](docs/기능-흐름도-(2).png)
+
+<br>
+
+- - -
+
 ## **에러 코드**
 
 ![Alt text](docs/에러코드.jpg)
