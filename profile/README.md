@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![Alt text](docs/logo.png)
+![Alt text](docs/logo.jpg)
 
 #### 자립 준비 청년의 한끼를 위해 식단과 레시피를 제공하고, 식재료를 후원하는 기부 플랫폼
 
