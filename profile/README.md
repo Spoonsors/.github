@@ -131,6 +131,12 @@ SNS 로그인: [카카오 로그인][kakao login]
 [ncloud]: https://www.ncloud.com/product/applicationService/sens
 
 - - -
+## **참고사항**
+
+현재 관리자 계정은 ID : admin, PW : 123456이고, 영양사 계정은 ID : nutri, PW : 123456 으로 설정되어있습니다.
+
+
+- - -
 
 ## **Members**
 <table>
